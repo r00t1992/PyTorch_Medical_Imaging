@@ -1,5 +1,4 @@
-# PyTorch_Medical_Imaging
-A blend of notebooks to get started with deep learning in medical imaging using PyTorch
+# PyTorch for Medical Imaging
 
 The files are from the Udemy course "Deep Learning with PyTorch for medical image analysis" 
 https://www.udemy.com/course/deep-learning-with-pytorch-for-medical-image-analysis/
